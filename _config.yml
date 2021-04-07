@@ -1,32 +1,30 @@
 # Site settings
-title: Klise Theme # site title
+title: The Life Electric
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
-lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
+  A (somewhat) live journal of my move to an electric vehicle, hoping to give others some insight if they want to make the plunge.
+lang: en-US
+timezone: America/Los_Angeles
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+repo: 
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: Nate # author name
-  bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
+  bio: >-
+    Engineer, music user, electron abuser.
+  username: 
+  github: 
+  twitter:
+  facebook: 
+  email: 
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://nharada.github.io" #
-baseurl: /boltblog
+url: "thelifeelectric.us" #
+baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: 
 fb_appid:
 
 # Collection setting
