@@ -12,19 +12,19 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Nate # author name
   bio: >-
-    Engineer, music user, electron abuser.
+    Computer user, electron abuser.
   username: 
   github: 
   twitter:
   facebook: 
   email: 
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+  avatar: /assets/img/avatar.png # change with your own avatar
 
 # URL settings
 url: "thelifeelectric.us" #
 baseurl:
 permalink: /:title/
-google_analytics: "G-C3PF4KEK0E"
+google_analytics: G-C3PF4KEK0E
 fb_appid:
 
 # Collection setting
