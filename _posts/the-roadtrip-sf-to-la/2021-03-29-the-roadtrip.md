@@ -43,6 +43,7 @@ You’ll notice that the second stop was much more expensive than the first, eve
 * Climate control is a real killer. I was lucky it was nice out, because when I tried turning on the A/C it knocked 40 miles off my estimated range. That’s a huge hit, and doing this trip in even mildly hot or cold weather would be a real bummer.
 * The range estimate is usually pretty good, but not perfect. Until I get more familiar with it, I would want to leave at least 20 miles of range estimated when planning a trip.
 * Related to the climate note, the heated seats and steering wheel are less a luxury item in EVs and more a range extender. They’re worth the 500 bucks or so they cost to add, since using them can mean 30+ miles of range over a long trip.
+* Check if the chargers you plan to use are working ahead of time!
 
 ## Conclusions
 While it wasn’t the easiest road trip I’ve done, it was far less painful than I expected from an EV. With better charger coverage on the route, I probably would have been more comfortable with the margins and driven faster on the highway, but when you factor in things you’re already stopping for like meals it’s not adding that much more time to your trip.
