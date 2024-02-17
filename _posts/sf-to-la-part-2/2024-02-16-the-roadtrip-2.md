@@ -6,7 +6,7 @@ comments: true
 ---
 Welcome the sequel! After nearly two years, I was back for more. Once again it was time to tackle the roadtrip I once called “honestly not as terrible as you’d expect”. Los Angeles to San Francisco on nothing but electrons and a prayer (for no lines at EA chargers). For the original trip, check out [part 1](/the-roadtrip-sf-to-la).
 
-![the route](/assets/posts/deux-route.png)
+![the route](/assets/posts/initial-route.png)
 
 ## The Car
 Some of you may recall that the Chevy Bolts of yore had a special feature that caused them to set spontaneously ablaze while charging. Partially thanks to GM, but mostly thanks to California’s progressive consumer protection laws, I was able to swap out my cute starter Bolt EV LT for the mature and sophisticated Bolt EUV Premier. The new car has been nothing but good to me so far, but unfortunately the extra mass combined with the same battery means range is reduced, approximately 20 miles EPA estimated. Charge rates are the same 55 KW, which is slower than basically any modern EV.
