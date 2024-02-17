@@ -12,7 +12,7 @@ Welcome the sequel! After nearly two years, I was back for more. Once again it w
 Some of you may recall that the Chevy Bolts of yore had a special feature that caused them to set spontaneously ablaze while charging. Partially thanks to GM, but mostly thanks to California’s progressive consumer protection laws, I was able to swap out my cute starter Bolt EV LT for the mature and sophisticated Bolt EUV Premier. The new car has been nothing but good to me so far, but unfortunately the extra mass combined with the same battery means range is reduced, approximately 20 miles EPA estimated. Charge rates are the same 55 KW, which is slower than basically any modern EV.
 
 ## The Trip
-The route for this trip is nearly the same as last time, tackling nearly 400 miles mostly on the 5. Here are the overall stats for my trip:
+The route for this trip is nearly the same as last time, tackling nearly 400 miles mostly on the I5. Here are the overall stats for my trip:
 
     Total milage: 380 miles
     Total time: 8 hours 17 minutes
@@ -20,7 +20,7 @@ The route for this trip is nearly the same as last time, tackling nearly 400 mil
     Average driving efficiency: 3.3 mi/kWh
     Average outdoor temp: 69 degrees
 
-I stopped twice, for 34 minutes and 1 hour, 10 minutes respectively. Usually I try to setup my charging so the first one is quick and the second one is longer and overlaps with lunch. Since I was traveling on a weekday, the roads weren’t busy save a few semis trying to pass. The worst traffic I hit was entering SF across the bay bridge and it was maybe an extra five minutes.
+I stopped twice, for 34 minutes and 1 hour 10 minutes respectively. Usually I try to setup my charging so the first one is quick and the second one is longer and overlaps with lunch. Since I was traveling on a weekday, the roads weren’t busy save a few semis trying to pass each other. The worst traffic I hit was entering SF across the bay bridge and it was maybe an extra five minutes.
 
 ## Infrastructure
 While the trip is the same, a lot has changed in two years for the EV driver. There has been significant development on the charging infrastructure for this route, and while this sounds like it should make the trip easier it’s counteracted by the large increase in EVs on the road. I (along with many others) have observed that the number of cars has grown faster than the number of chargers for most non-Tesla networks. This has the potential to lead to one of the most frustrating electric road trip outcomes — waiting in line to charge.
