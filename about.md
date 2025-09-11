@@ -7,4 +7,4 @@ comments: false
 
 Just some stories about my life with an electric car.
 
-**Current ride:** 2022 Chevy Bolt EUV Premier.
+**Current ride:** 2025 Hyundai Ioniq 6 SEL
